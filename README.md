@@ -208,9 +208,6 @@ plt.title("Confusion Matrix")
 plt.show()
 ```
 
-<img width="672" height="576" alt="image" src="https://github.com/user-attachments/assets/9ae61567-6a8f-4e6c-b079-f2ec0053d224" />
-
-
 
 ### Dataset Information
 <img width="1331" height="432" alt="image" src="https://github.com/user-attachments/assets/5bbb1ad9-c1d8-4eb8-941d-5cda7275bea2" />
